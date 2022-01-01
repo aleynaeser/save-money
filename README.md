@@ -1,6 +1,6 @@
 # SaveDay | Track Money Daily
 
-SaveDay is an app where you can track you money daily created using Flutter.
+SaveDay is an app where you can track and save your money daily created using Flutter.
 
 
 <h4 align="center">
